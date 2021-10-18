@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @runningbucket
 - 👀 I’m interested in human
-- 🌱 I’m currently learning chineese
-- 💞️ I’m looking to collaborate with @Porsche
+- 🌱 I’m currently learning chinese
+- 💞️ I’m looking to collaborate with @Porscheswitzerland
 - 📫 How to reach me: website is currently in the Aufbau
 
 <!---
